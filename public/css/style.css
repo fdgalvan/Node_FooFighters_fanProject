@@ -1,0 +1,57 @@
+/* color palette
+Rich Black FOGRA:   #171A21
+Oxford Blue:        #0A122A
+Xanadu:             #727D71
+Dark Red:           #92140C
+Red:                #CC2D21
+Honey Yellow:       #FFB400
+
+*/
+
+
+
+body {
+    background-image: url("../images/misc/FF_groupInLimo.jpg");background-repeat:no-repeat;
+    background-color: #171A21;
+    justify-content: center;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+a:link {
+    color: #cc2d21;
+}
+
+a:visited {
+    color: #92140C;
+}
+
+a:hover {
+    color: #727D71;
+}
+
+.navbarContainer {
+    display: flex;
+    opacity: .85;
+    background-color: #171A21;
+    min-height: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.mainContainer {
+    display: flex;
+    opacity: 0.75;    
+    height: 1000px;
+    background-attachment: fixed;
+    justify-content: center;
+    background-repeat:no-repeat;
+}
+
+.footerContainer {
+    display: flex;
+    opacity: .85;
+}

@@ -1,0 +1,243 @@
+{"Songs" : [
+        {
+            "id" : 0,
+            "name" : "Foo Fighters",
+            "publishDate" : "1995",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "This Is a Call",
+                "I'll Stick Around",
+                "Big Me",
+                "Alone + Easy Target",
+                "Good Grief",
+                "Floaty",
+                "Weenie Beenie",
+                "Oh, George",
+                "For All the Cows",
+                "X-Static",
+                "Wattershed",
+                "Exhausted"
+            ]
+        },
+    
+        {
+            "id" : 1,
+            "name" : "The Colour And The Shape",
+            "publishDate" : "1997",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "Doll",
+                "Monkey Wrench",
+                "Hey, Johnny Park!",
+                "My Poor Brain",
+                "Wind Up",
+                "Up In Arms",
+                "My Hero",
+                "See You",
+                "Enough Space",
+                "February Stars",
+                "Everlong",
+                "Walking After You",
+                "New Way Home",
+                "The Colour And The Shape"
+            ]
+        },
+    
+        {
+            "id" : 2,
+            "name" : "There Is Nothing Left To Lose",
+            "publishDate" : "1999",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "Stacked Actors",
+                "Breakout",
+                "Learn To Fly",
+                "Gimme Stitches",
+                "Generator",
+                "Aurora",
+                "Live-In Skin",
+                "Next Year",
+                "Headwires",
+                "Ain't In The Life",
+                "M.I.A."
+            ]
+        },
+    
+        {
+            "id" : 3,
+            "name" : "One By One",
+            "publishDate" : "2002",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "All My Life",
+                "Low",
+                "Have It All",
+                "Times Like These",
+                "Disenchanted Lullaby",
+                "Tired Of You",
+                "Halo",
+                "Lonely As You",
+                "Overdrive",
+                "Burn Away",
+                "Come Back",
+                "Walking A Line",
+                "Sister Europe",
+                "Danny Says",
+                "Life Of Illusion"
+            ]
+        },
+    
+        {
+            "id" : 4,
+            "name" : "In Your Honor",
+            "publishDate" : "2005",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "In Your Honor",
+                "No Way Back",
+                "Best Of You",
+                "DOA",
+                "Hell",
+                "The Last Song",
+                "Free Me",
+                "Resolve",
+                "The Deepest Blues Are Black",
+                "End Over End",
+                "Still",
+                "What If I Do?",
+                "Miracle",
+                "Another Round",
+                "Friend Of A Friend",
+                "Over and Out",
+                "On The Mend",
+                "Virginia Moon",
+                "Cold Day In The Sun",
+                "Razor"
+            ]
+        },
+    
+        {
+            "id" : 5,
+            "name" : "Echoes, Silence, Patience & Grace",
+            "publishDate" : "2007",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "The Pretender",
+                "Let It Die",
+                "Erase/Replace",
+                "Long Road To Ruin",
+                "Come Alive",
+                "Stranger Things Have Happened",
+                "Cheer Up, Boys (Your Make Up Is Running)",
+                "Summer's End",
+                "Ballad Of The Beaconsfield Miners",
+                "Statues",
+                "But, Honestly",
+                "Home"
+            ]
+        },
+    
+        {
+            "id" : 6,
+            "name" : "Wasting Light",
+            "publishDate" : "2011",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "Bridge Burning",
+                "Rope",
+                "Dear Rosemary",
+                "White Limo",
+                "Arlandria",
+                "These Days",
+                "Back & Forth",
+                "A Matter Of Time",
+                "Miss The Misery",
+                "I Should Have Known",
+                "Walk"
+            ]
+        },
+    
+        {
+            "id" : 7,
+            "name" : "Sonic Highways",
+            "publishDate" : "2014",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "Something from Nothing",
+                "The Feast and The Famine",
+                "Congregation",
+                "What Did I Do?/God As My Witness",
+                "Outside",
+                "In The Clear",
+                "Subterranean",
+                "I Am A River"
+            ]
+        },
+    
+        {
+            "id" : 8,
+            "name" : "Concrete and Gold",
+            "publishDate" : "2017",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "T-Shirt",
+                "Run",
+                "Make It Right",
+                "The Sky Is A Neighborhood",
+                "La Dee Da",
+                "Dirty Water",
+                "Arrows",
+                "Happy Ever After (Zero Hour)",
+                "Sunday Rain",
+                "The Line",
+                "Concrete and Gold"
+            ]
+        },
+    
+        {
+            "id" : 9,
+            "name" : "Medicine At Midnight",
+            "publishDate" : "2021",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "Making A Fire",
+                "Shame Shame",
+                "Cloudspotter",
+                "Waiting On A War",
+                "Medicine At Midnight",
+                "No Son Of Mine",
+                "Holding Poison",
+                "Chasing Birds",
+                "Love Dies Young"
+            ]
+        },
+    
+        {
+            "id" : 10,
+            "name" : "Dream Widow",
+            "publishDate" : "2022",
+            "imgURL" : "",
+    
+            "songTitles" : [
+                "Encino",
+                "Cold",
+                "March of the Insane",
+                "The Sweet Abyss",
+                "Angel With Severed Wings",
+                "Come All Ye Faithful",
+                "Becoming",
+                "Lacrimus dei Ebrius"
+            ]
+        }
+    ]
+    }
