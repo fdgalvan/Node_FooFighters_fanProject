@@ -2,7 +2,7 @@
 // creates Node project that requires Express. Port 3000 is referenced at the bottom.
 const express = require('express');
 const app = express();
-let port = 3000;
+let PORT = process.env.PORT || 8080;
 
 //uses info within static assets within public directory. 
 app.use(express.static('public'))
